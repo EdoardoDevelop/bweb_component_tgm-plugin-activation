@@ -112,7 +112,7 @@
             array("name"=>"Woocommerce","slug"=>"woocommerce","icon"=>"https://ps.w.org/woocommerce/assets/icon-128x128.png"),
         );*/
 
-        $list = json_decode( wp_remote_retrieve_body( wp_remote_get( "https://raw.githubusercontent.com/EdoardoDevelop/bweb_component_functions/master/tgm-plugin-activation/plugin-wp.json" ) ), true );
+        $list = json_decode( wp_remote_retrieve_body( wp_remote_get( "https://raw.githubusercontent.com/EdoardoDevelop/bweb_component_tgm-plugin-activation/master/plugin-wp.json" ) ), true );
         $plugin_active = array();
         foreach(get_option('active_plugins') as $p){
             array_push($plugin_active, dirname($p));
