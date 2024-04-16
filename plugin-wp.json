@@ -20,6 +20,11 @@
         "icon": "https://ps.w.org/taxonomy-images/assets/icon-128x128.png"
     },
     {
+        "name": "SimpleTOC – Table of Contents Block",
+        "slug": "simpletoc",
+        "icon": "https://ps.w.org/simpletoc/assets/icon.svg"
+    },
+    {
         "name": "Complianz | GDPR/CCPA Cookie Consent",
         "slug": "complianz-gdpr",
         "icon": "https://ps.w.org/complianz-gdpr/assets/icon-128x128.png"
