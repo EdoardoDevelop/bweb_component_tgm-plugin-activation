@@ -102,11 +102,11 @@
     {
         "name": "Booking Calendar",
         "slug": "booking",
-        "icon": "https://ps.w.org/booking/assets/icon-128x128.png"
+        "icon": "https://ps.w.org/booking/assets/icon-128x128.gif"
     },
     {
         "name": "Woocommerce",
         "slug": "woocommerce",
-        "icon": "https://ps.w.org/woocommerce/assets/icon-128x128.png"
+        "icon": "https://ps.w.org/woocommerce/assets/icon-128x128.gif"
     }
 ]
