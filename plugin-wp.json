@@ -65,6 +65,11 @@
         "icon": "https://ps.w.org/w3-total-cache/assets/icon-128x128.png"
     },
     {
+        "name": "Query Monitor",
+        "slug": "query-monitor",
+        "icon": "https://ps.w.org/query-monitor/assets/icon.svg"
+    },
+    {
         "name": "Polylang",
         "slug": "polylang",
         "icon": "https://ps.w.org/polylang/assets/icon-128x128.png"
